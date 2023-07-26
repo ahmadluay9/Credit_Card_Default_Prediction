@@ -7,8 +7,14 @@ This project aims to predict whether a credit card holder will default in the ne
 This repository consists of several files, namely :
 
 - **h8dsft_P1M1_Ahmad Luay Adnani.csv** = dataset used for this project
+- **h8dsft_P1M1_Ahmad Luay Adnani_inference.csv** = dataset used for model inference
 - **Credit_Card_Default_Prediction.ipynb** = This file is the main notebook used to explore dataset and built model
 - **inference_Card_Default_Prediction.ipynb** = Notebook used for testing inference. Inferencing is done on a separate notebook to prove that the model can run on a notebook that is clean of variables
+- **num_col.txt** = list of numerical columns
+- **cat_col.txt** = list of categorical columns
+- **s_MinMaxScaler.pkl** = The serialized MinMaxScaler object can be used to apply the same scaling scheme to new data without needing to retrain the encoder.
+- **e_OneHotEncoder.pkl** = The serialized OneHotEncoder object can be used to apply the same encoding scheme to new data without needing to retrain the encoder.
+- **m_svm.pkl** = Saved model to be loaded and used later for making predictions on new data without the need to retrain the SVM.
 
 # Brief Summary of Project
 
