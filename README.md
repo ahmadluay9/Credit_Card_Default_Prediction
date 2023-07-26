@@ -6,9 +6,9 @@ This project aims to predict whether a credit card holder will default in the ne
 
 This repository consists of several files, namely :
 
-- h8dsft_P1M1_Ahmad Luay Adnani.csv = dataset used for this project
-- Credit_Card_Default_Prediction.ipynb = This file is the main notebook used to explore dataset and built model
-- inference_Card_Default_Prediction.ipynb = Notebook used for testing inference. Inferencing is done on a separate notebook to prove that the model can run on a notebook that is clean of variables
+- **h8dsft_P1M1_Ahmad Luay Adnani.csv** = dataset used for this project
+- **Credit_Card_Default_Prediction.ipynb** = This file is the main notebook used to explore dataset and built model
+- **inference_Card_Default_Prediction.ipynb** = Notebook used for testing inference. Inferencing is done on a separate notebook to prove that the model can run on a notebook that is clean of variables
 
 # Brief Summary of Project
 
